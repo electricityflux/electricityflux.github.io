@@ -6,8 +6,9 @@ categories: jekyll update
 ---
 The sources of electricity in Great Britain, known as the generation mix, has been transient for the past 50 years, with the 1980s and 90s seeing the switch from a predominantly coal based power supply to a natural gas based one. Under the governments “Clean Power 2030 Action Plan”, it is anticipated that 95% of electricity demand will be clean resources, reducing the overall carbon intensity from an average of 171 gCO2e/kWh in 2023 to 50 g/CO2e/kWh. To achieve this, the energy transition away from fossil fuel-based resources will need to move even quicker.
 
-
-![Generation Mix 2025](/assets/images/generationmix.svg)
+<p align="center">
+  <img src="/assets/images/generationmix.svg" alt="Generation Mix 2025">
+</p>
 
 <p align="center">
 Figure 1. Great Britain's average generation mix April 1, 2024 to March 31, 2025.
