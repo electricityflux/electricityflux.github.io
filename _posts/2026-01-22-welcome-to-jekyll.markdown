@@ -8,7 +8,8 @@ The sources of electricity in Great Britain, known as the generation mix, has be
 
 <p align="center">
 ![Generation Mix 2025](/assets/images/generationmix.svg)
-
+</p>
+<p align="center">
 Figure 1. Great Britain's average generation mix 2024-04-01 to 2025-03-31.
 </p>
 
