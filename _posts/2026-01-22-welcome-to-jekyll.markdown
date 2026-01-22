@@ -10,7 +10,7 @@ The sources of electricity in Great Britain, known as the generation mix, has be
 ![Generation Mix 2025](/assets/images/generationmix.svg)
 
 <p align="center">
-Figure 1. Great Britain's average generation mix 2024-04-01 to 2025-03-31.
+Figure 1. Great Britain's average generation mix April 1, 2024 to March 31, 2025.
 </p>
 
 Although the electricity utilised in homes and businesses is not provided by a specific generator, rather an “electricity pool”, suppliers do purchase specific units of energy from individual generators to then sell to consumers. These suppliers are mandated to share where they purchase power from to sell to their customers under The Electricity (Fuel Mix Disclosure) Regulations 2005 to meet their Supply Licence conditions.
