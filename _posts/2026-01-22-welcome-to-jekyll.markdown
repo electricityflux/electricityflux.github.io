@@ -45,7 +45,7 @@ Table 1. Electricity supplier resource allocation between April 1, 2024 to March
 | Utilita | 15 | 75 | 4 | 0 | 6 |
 | E | 15 | 75 | 4 | 0.3 | 6 |
 
-Many suppliers are leading the way in terms of emissions, surpassing the GB average in Figure 1. The first six depend on entirely on renewable energy. The first seven solely use zero-emission resources. Scottish Power (SP) are the only supplier to offer a "green" and "non-green" option. It is clear from Figure 2 though that some suppliers have a long way to go being significantly over the GB average of CO2 emissions at 205 g/kWh. 
+Many suppliers are leading the way in terms of generation mix, surpassing the GB average in Figure 1. The first six depend on entirely on renewable energy. The first seven solely use zero-emission resources. Scottish Power (SP) are the only supplier to offer a "green" and "non-green" option. It is clear from Figure 2, though, that some suppliers have a long way to go, being significantly above the GB average of CO2 emissions at 205 g/kWh. 
 
 <p align="center">
   <img src="/assets/images/emitters.svg" alt="Emitters5">
