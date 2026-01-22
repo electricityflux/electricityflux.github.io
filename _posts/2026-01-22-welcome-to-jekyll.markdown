@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "How sustainable is your electricity supplier?"
-permalink: /howsustainableismyenergysupplier/
 date:   2026-01-22 12:00:24 +0000
 categories: jekyll update
 ---
