@@ -20,7 +20,6 @@ Although the electricity utilised in homes and businesses is not provided by a s
 Table 1. Electricity supplier resource allocation between April 1, 2024 to March 31, 2025.
 </p>
 
-<div align="center">
 
 | Supplier | Coal | Natural gas | Nuclear | Renewables | Other |
 |:--------:|:----:|:-----------:|:------:|:----------:|:-----:|
@@ -44,6 +43,5 @@ Table 1. Electricity supplier resource allocation between April 1, 2024 to March
 | Utilita | 15 | 75 | 4 | 0 | 6 |
 | E | 15 | 75 | 4 | 0.3 | 6 |
 
-</div>
 
 
