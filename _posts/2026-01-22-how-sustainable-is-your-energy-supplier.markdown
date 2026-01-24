@@ -2,6 +2,7 @@
 layout: post
 title:  "How sustainable is your electricity supplier?"
 date:   2026-01-22 12:00:24 +0000
+permalink: /howsustainableisyourelectrciitysupplier/
 ---
 Electricity suppliers are mandated under their licence conditions to publicly share where they purchase power from to sell to their customers under The Electricity (Fuel Mix Disclosure) Regulations 2005. Despite this, it is apparent that only suppliers with good credentials make this information clear, typically in their marketing campaigns, with many comparison or suppliers websites obfuscating where suppliers purchase their power from. This article aims to remove these barriers and provide a simple comparison of all electricity suppliers in Great Britain (GB). 
 
