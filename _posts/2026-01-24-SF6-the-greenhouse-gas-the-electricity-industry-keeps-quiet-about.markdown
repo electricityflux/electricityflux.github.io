@@ -14,7 +14,7 @@ Before the adoption of SF6, air-insulated substations (AIS) were the prevailing 
 </p>
 
 <p align="center">
-Figure 1. 132 kV GIS substation (note that the busbars are not phase segregated and that all three phases are contained within one chamber for each circuit).
+Figure 1. 132 kV GIS substation (note that the busbars are not phase segregated, and that all three phases are contained within one chamber for each circuit).
 </p>
 
 
