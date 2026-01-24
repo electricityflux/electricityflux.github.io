@@ -22,7 +22,7 @@ Figure 1. 132 kV GIS substation (note that the busbars are not phase segregated,
 SF<sub>6</sub> has a huge global warming potential (GWP) of 23,500. GWP represents the capability of the gas to contain heat within the atmosphere relative to carbon dioxide. As such, CO<sub>2</sub> has a GWP of 1, making SF<sub>6</sub> 23,500 times more potent. The GWP can be further compared to other greenhouse gases in Figure 2. Coupled with its widespread adoption, it is one of the most significant challenges in terms of sustainability for electrical transmission and distribution companies. It is anticipated that the UK government could take a similar approach to SF<sub>6</sub> as the European Union, with potential bans on virgin gas from 2035 and a phase-out of >145 kV equipment from 2032, where they use F-gas with a GWP >10.
 
 <p align="center">
-  <img src="/assets/images/gwpnew.svg" alt="GWP of GG">
+  <img src="/assets/images/FINALGWP.svg" alt="GWP of GG">
 </p>
 
 <p align="center">
