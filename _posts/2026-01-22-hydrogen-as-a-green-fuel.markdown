@@ -9,14 +9,14 @@ Hydrogen is a highly combustible element which produces no harmful emissions whe
 
 Green hydrogen could offer a low-carbon solution to the heating sector's current emissions in the UK. Hydrogen gas would be something consumers are more familiar with than heat pumps, given that 78.6% of households currently use mains gas for heating. A gradual transition can be carried out using hydrogen too, since it can be blended with methane. Maintaining the need for a gas distribution network for domestic consumers by switching from natural gas to hydrogen rather than solely utilising heat pumps would also secure existing jobs. 
 
-## Hydrogen blends
+## Natural gas blends
 
-Where hydrogen is blended with methane (the main component in natural gas), the extent of hydrogen blend in a combustion environment is limited, dependent on the technology used; while a boiler designed for 100% hydrogen combustion would work without issues, boilers designed to work with hydrogen blends typically have limitations for hydrogen content. These limitations are a result of the vastly different heating values associated with each compound, dictating specific design parameters for each type of boiler. Hydrogen also has a much lower energy per unit volume, so more gas needs to be transported and combusted to generate the same amount of heat as methane: this can become a challenge, whereby more energy is required to compress, store, and move the hydrogen.
+Where hydrogen is blended with methane (the main component in natural gas), the extent of hydrogen blend in a combustion environment is limited, dependent on the type of hydrogen used; while a boiler designed for 100% hydrogen combustion would work without issues, boilers designed to work with hydrogen blends typically have limitations for hydrogen content. These limitations are a result of the vastly different heating values associated with each compound, dictating specific design parameters for each type of boiler. Hydrogen also has a much lower energy per unit volume, so more gas needs to be transported and combusted to generate the same amount of heat as methane: this can become a challenge, whereby more energy is required to compress, store, and move the hydrogen.
 
-Figure 1 displays that the relationship between 
+Figure 1 displays that the relationship between is non-linear meaning that the reduction in emissions is not the same percentage as the increase in hydrogen in the blend. This is a direct result of the different characterstics of the two gases.
 
 <p align="center">
-  <img src="/assets/images/h2blend.svg" alt="Hydrogen blend">
+  <img src="/assets/images/h2blend2.svg" alt="Hydrogen blend">
 </p>
 
 <p align="center">
