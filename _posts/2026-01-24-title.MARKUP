@@ -1,55 +1,26 @@
 ---
 layout: post
-title:  "How sustainable is your electricity supplier?"
-date:   2026-01-22 12:00:24 +0000
+title:  "Why should you install a heat pump?"
+date:   2026-01-24 12:00:24 +0000
 ---
-Electricity suppliers are mandated under their licence conditions to publicly share where they purchase power from to sell to their customers under The Electricity (Fuel Mix Disclosure) Regulations 2005. Despite this, it is apparent that only suppliers with good credentials make this information clear, typically in their marketing campaigns, with many comparison or suppliers websites obfuscating where suppliers purchase their power from. This article aims to remove these barriers and provide a simple comparison of all electricity suppliers in Great Britain (GB). 
 
-The sources of electricity in Great Britain (GB) which supply demand, referred to as the generation mix, have undergone significant changes over the past 50 years, with the 1980s and 1990s marking a shift from a predominantly coal-based power supply to one based on natural gas. Although not a reason for the shift, this had an impact on emissions since, in terms of CO2, coal produces 919 g/kWh compared with natural gas, which produces 382 g/kWh. Since the 2010s, a drive to increase zero-emission resources such as renewable and (significantly less so) nuclear energy has occurred. Under the government's “Clean Power 2030 Action Plan”, it is anticipated that 95% of electricity demand will be from clean resources, reducing the overall CO2 emissions intensity to 50 g/kWh. To achieve this, the energy transition away from fossil fuel-based resources will need to accelerate even more quickly. The fuel mix of GB electricity from 2024-2025 is illustrated in Figure 1. Note that coal still holds a significant portion at 6% since this considers imports from European markets, which, unlike GB, still depend in part on coal for electricity.
+The concept of utilising heat pumps for heating has been around for hundreds of years, and yet, despite this, domestic heating has been dominated by fossil fuels. Figure 1 illustrates the makeup of England’s central heating in terms of resources in 2025. Mains gas is the most favourable resource, accounting for 78.6% of properties. In 2021, domestic heating in the UK accounted for 18% of all UK greenhouse gas emissions. With the drive towards net-zero greenhouse gas emissions in 2050, a drastic reduction in the utilisation of fossil fuels for domestic heating will be required. Although there is the possibility of utilisation of hydrogen gas as a fuel for heating, this comes with a unique set of challenges, and widespread adoption in the UK at present looks unlikely. This leaves the options of directly using renewable resources for heat or electrically generated heat. 
 
 <p align="center">
-  <img src="/assets/images/generationmix.svg" alt="Generation Mix 2025">
+  <img src="/assets/images/englandheating.svg" alt="Heating resources 2025">
 </p>
 
 <p align="center">
-Figure 1. Great Britain's average generation mix between April 1, 2024 to March 31, 2025.
+Figure 1. Englands's central heating resource mix 2025.
 </p>
 
-Although the electricity utilised in homes and businesses is not provided by a specific generator, rather an “electricity pool” represented by a national average, as in Figure 1, suppliers do purchase specific units of energy from individual generators to then sell to consumers. This means that consumers with suppliers that only purchase renewable energy directly subsidise renewable energy infrastructure rather than fossil fuel-fired generation. For comparison purposes, the resource data from all GB electricity suppliers has been collated in Table 1. 
+# Heat pump operation and efficiency
 
-<p align="center">
-Table 1. Electricity supplier resource allocation between April 1, 2024 to March 31, 2025 ranked from high to low in terms of emissions associated with power generation.
-</p>
+Heat pumps operate by the same principles as an air-conditioner, only with a reversing valve, which allows the unit to transfer heat into a property in addition to out of a property. Energy is extracted either from the ground or air and moved into the property, utilising a refrigerant liquid to be dissipated as heat. Air-source heat pumps are like air-conditioning units in terms of features, whereas ground-source heat pumps require large boreholes or trenches to house pipes in addition to the heat pump unit.
 
+Air-source heat pumps have a high efficiency of 300-400% compared to fossil fuel-fired appliances such as gas boilers, which have efficiencies of up to 94%. This means that for every 1 kWh of electricity, a heat pump produces 3-4 kWh of heat. Being three to four times more efficient than the gas counterparts may suggest they would be less expensive to run, though this is currently not the case due to a disparity in electricity and gas prices, with the current price cap indicating average costs of 28p/kWh for electricity and 6p/kWh. Without other smart devices such as solar or battery energy storage, the present high cost of electricity compared to gas makes the running costs of a heat pump marginal compared to gas boilers in most cases.
 
-| Supplier | Coal | Natural gas | Nuclear | Renewables | Other |
-|:--------:|:----:|:-----------:|:------:|:----------:|:-----:|
-| Scottish Power (green tariff) | 0 | 0 | 0 | 100 | 0 |
-| E.ON | 0 | 0 | 0 | 100 | 0 |
-| Good | 0 | 0 | 0 | 100 | 0 |
-| So | 0 | 0 | 0 | 100 | 0 |
-| Ecotricity | 0 | 0 | 0 | 100 | 0 |
-| 100Green | 0 | 0 | 0 | 100 | 0 |
-| Octopus | 0 | 0 | 13.6 | 86.4 | 0 |
-| British Gas | 1 | 8 | 55 | 35 | 1 |
-| EDF | 4.2 | 21 | 54.8 | 18.2 | 1.8 |
-| Outfox | 3.4 | 39.3 | 13.9 | 40.8 | 2.6 |
-| Home | 3.4 | 39.3 | 13.9 | 40.8 | 2.6 |
-| Sainsbury's | 10.2 | 51.5 | 2.7 | 31.3 | 4.3 |
-| E.ON next | 10.2 | 51.5 | 2.7 | 31.3 | 4.3 |
-| Scottish Power (non-green tariff) | 14 | 73 | 4 | 3 | 6 |
-| OVO | 15 | 73 | 4 | 2 | 6 |
-| Tulo | 14.8 | 74.7 | 3.9 | 0.3 | 6.3 |
-| Utility Warehouse | 15 | 75 | 4 | 0.3 | 6 |
-| Utilita | 15 | 75 | 4 | 0 | 6 |
-| E | 15 | 75 | 4 | 0.3 | 6 |
+# Boiler Upgrade Scheme
 
-Many suppliers are leading the way in terms of generation mix, surpassing the GB average in Figure 1. The first six depend on entirely on renewable energy. The first seven solely use zero-emission resources. Scottish Power (SP) are the only supplier to offer a "green" and "non-green" option. It is clear from Figure 2, though, that some suppliers have a long way to go, being significantly above the GB average of CO2 emissions at 205 g/kWh. 
+The present government policy is most strongly supporting the installation of air-source heat pumps through the Boiler Upgrade Scheme (BUS). The scheme offers £7,500 for households in England and Wales towards the installation of a heat pump. This scheme brings the costs of installing an air-source heat pump and gas closer, with a general figure being £11,000 for a heat pump and £4,000 for a gas boiler. The cost of a ground-source heat pump is typically significantly greater at £29,000, meaning that the scheme does little to compensate for this type.
 
-<p align="center">
-  <img src="/assets/images/emitters.svg" alt="Emitters5">
-</p>
-
-<p align="center">
-Figure 2. Electricity supplier's emissions (where non-zero) between April 1, 2024 to March 31, 2025..
-</p>
