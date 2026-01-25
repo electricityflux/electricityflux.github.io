@@ -27,7 +27,9 @@ CH<sub>4</sub>(g) + 2O<sub>2</sub>(g) → CO<sub>2</sub>(g) + 2H<sub>2</sub>O(g)
 
 2H<sub>2</sub>(g) + O<sub>2</sub>(g) → 2H<sub>2</sub>O(g)
 
+<p align="center">
 Table 1. Element characteristics for the reactions.
+</p>
 
 | Element          | Molar mass (g/mol) | Δh<sub>comb</sub> (kJ/mol) |
 |------------------|-------------------|----------------|
