@@ -90,7 +90,7 @@ CO₂ emissions:
 This method can be used to extrapolate the curve in Figure 1.
 
 <p align="center">
-  <img src="/assets/images/h2blend2.svg" alt="Hydrogen blend">
+  <img src="/assets/images/h2blend2.png" alt="Hydrogen blend">
 </p>
 
 <p align="center">
