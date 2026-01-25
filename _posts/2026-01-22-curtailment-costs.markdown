@@ -12,5 +12,5 @@ NESO currently [report](https://www.neso.energy/data-portal/constraint-breakdown
 </p>
 
 <p align="center">
-Figure 1. GB's annual electricity transmission constraint costs 2017-2025..
+Figure 1. GB's annual electricity transmission constraint costs 2017-2025.
 </p>
