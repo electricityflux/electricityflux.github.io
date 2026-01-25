@@ -52,7 +52,7 @@ n<sub>CO₂</sub> = E / Δh<sub>comb</sub>
 
 Mass of carbon dioxide produced based on molar fraction:
 
-Mn<sub>CO₂</sub> = n<sub>CO₂</sub> × Mn<sub>CO₂</sub> / 1000
+M<sub>CO₂</sub> = n<sub>CO₂</sub> × M<sub>CO₂</sub> / 1000
          = 4.49 × 44.01 / 1000
          = 0.198 kg
 
