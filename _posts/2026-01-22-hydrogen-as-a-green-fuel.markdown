@@ -23,9 +23,9 @@ Figure 1 displays that the relationship between carbon dioxide emissions and the
 
 Two reactions occur when a hydrogen/methane blend is combusted, this is described for each element by:
 
-$\mathrm{CH_4(g) + 2O_2(g) \rightarrow CO_2(g) + 2H_2O(g)}$
+CH<sub>4</sub>(g) + 2O<sub>2</sub>(g) → CO<sub>2</sub>(g) + 2H<sub>2</sub>O(g)
 
-$\mathrm{2H_2(g) + O_2(g) \rightarrow 2H_2O(g)}$
+2H<sub>2</sub>(g) + O<sub>2</sub>(g) → 2H<sub>2</sub>O(g)
 
 <p align="center">
 Table 1. Element characteristics for the reactions.
@@ -38,46 +38,54 @@ Table 1. Element characteristics for the reactions.
 | Carbon dioxide (CO₂)| 44.01             | —                         |
 | Oxygen (O₂)          | 16.00             | —                         |
 
-The molar fraction of the gas blend is 
+The molar fraction of the gas blend is:
 
-$x_{H_2}=\frac{n_{H_2}}{n_{H_2}+n_{CH_4}}$.
+x<sub>H₂</sub> = n<sub>H₂</sub> / (n<sub>H₂</sub> + n<sub>CH₄</sub>)
 
-The mass relationship in terms of grams for 1 mole is 
+The mass relationship in terms of grams for 1 mole is:
 
-$(16)CH_4+(64)2O_2\rightarrow(44)CO_2+(18)2H_2O$.
+(16)CH₄ + (64)2O₂ → (44)CO₂ + (18)2H₂O
 
-The number of moles of methane required to produce 1 kWh when combusted is 
+The number of moles of methane to produce 1 kWh when combusted:
 
-$n_{CO_2}=\frac{E}{\Delta h_{comb}}=\frac{60\times60}{802.34}=4.49\ \text{moles}$.
+n<sub>CO₂</sub> = E / Δh<sub>comb</sub>
+     = (60 × 60) / 802.34
+     = 4.49 moles
 
-The mass of carbon dioxide produced based on the molar fraction is 
+Mass of carbon dioxide produced based on molar fraction:
 
-$M_{CO_2}=\frac{n_{CO_2}M_{CO_2}}{1000}=\frac{4.49\times44.01}{1000}=0.198\ \text{kg}$.
+M<sub>CO₂</sub> = n<sub>CO₂</sub> × M<sub>CO₂</sub> / 1000
+         = 4.49 × 44.01 / 1000
+         = 0.198 kg
 
-The CO₂ reduction relationship for a 50\% hydrogen blend is evaluated using the energy contributions per component:
+CO₂ reduction relationship (example for a 50% hydrogen blend):
 
-$\Delta h_{H_2}=241.83\times0.5=120.915\ \text{kJ/mol}$
-$\Delta h_{CH_4}=802.34\times0.5=401.17\ \text{kJ/mol}$.
+Energy contributions per component:
 
-The total energy contribution for 1 mole of hydrogen blend is 
+Δh<sub>H₂</sub>  = 241.83 × 0.5 = 120.915 kJ/mol
+Δh<sub>CH₄</sub> = 802.34 × 0.5 = 401.17 kJ/mol
 
-$\Delta h_{total}=\Delta h_{CH_4}+\Delta h_{H_2}=401.17+120.915=522.085\ \text{kJ/mol}$.
+Total energy contribution for 1 mole:
 
-The energy difference between 1 mole of methane and 1 mole of hydrogen blend is 
+Δh<sub>total</sub> = Δh<sub>CH₄</sub> + Δh<sub>H₂</sub> = 120.915 + 401.17
+        = 522.085 kJ/mol
 
-$802.34-522.085=280.255\ \text{kJ/mol}$.
+Energy difference between 1 mole of hydrogen blend and 1 mole of methane:
 
-The additional moles of hydrogen blend required to make up the energy deficit are 
+802.34 − 522.05 = 280.255 kJ/mol
 
-$\frac{280.255}{522.085}=0.537$, giving a total of $1+0.537=1.537$ moles.
+Additional moles of blend required to make up the defecit:
 
-The contribution of methane is 
+280.255 / 522.05 = 0.537
+1 + 0.537 = 1.537
 
-$0.5\times1.537=0.7685$.
+Contribution of methane:
 
-The resulting CO₂ emissions are 
+0.5 × 1.537 = 0.7685
 
-$0.198\times0.7685=0.152\ \text{kg}$.
+CO₂ emissions:
+
+0.198 × 0.7685 = 0.152 kg
 
 This method can be used to extrapolate the curve in Figure 1.
 
