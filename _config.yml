@@ -11,7 +11,3 @@ theme: minima
 
 plugins:
   - jekyll-feed
-
-<head>
-  <meta name="google-site-verification" content="46SRye6oSutqvTDWoOhSOXnLHdIOLBWhdcmQInAp-_I" />
-</head>
