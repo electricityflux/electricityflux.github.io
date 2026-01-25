@@ -94,7 +94,7 @@ This method can be used to extrapolate the curve in Figure 1.
 </p>
 
 <p align="center">
-Figure 1. Effect of hydrogen fraction in a hydrogen and methane gas blend.
+Figure 1. Effect of hydrogen fraction in a hydrogen and methane gas blend on CO<sub>2</sub> emissions.
 </p>
 
 ## Hydrogen safety
