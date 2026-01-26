@@ -27,7 +27,7 @@ Table 1. Electricity supplier resource allocation between April 1, 2024 to March
 
 | Supplier | Coal | Natural gas | Nuclear | Renewables | Other |
 |:--------:|:----:|:-----------:|:------:|:----------:|:-----:|
-| [Scottish power (green tariff)](https://www.scottishpower.co.uk/about-us/performance/fuel-mix) | 0 | 0 | 0 | 100 | 0 |
+| [Scottish Power (green tariff)](https://www.scottishpower.co.uk/about-us/performance/fuel-mix) | 0 | 0 | 0 | 100 | 0 |
 | [E.ON)](https://www.eonenergy.com/about-us/fuel-mix.html) | 0 | 0 | 0 | 100 | 0 |
 | [Good](https://www.goodenergy.co.uk/our-energy/) | 0 | 0 | 0 | 100 | 0 |
 | [So](https://www.so.energy/energy) | 0 | 0 | 0 | 100 | 0 |
@@ -40,7 +40,7 @@ Table 1. Electricity supplier resource allocation between April 1, 2024 to March
 | [Home](https://www.homeenergy.co.uk/OurEnergy) | 3.4 | 39.3 | 13.9 | 40.8 | 2.6 |
 | [Sainsbury’s](https://www.sainsburysenergy.com/legals/fuel-mix) | 10.2 | 51.5 | 2.7 | 31.3 | 4.3 |
 | [E.ON next](https://www.eonnext.com/about/fuel-mix) | 10.2 | 51.5 | 2.7 | 31.3 | 4.3 |
-| [Scottish power (non-green tariff)](https://www.scottishpower.co.uk/about-us/performance/fuel-mix) | 14 | 73 | 4 | 3 | 6 |
+| [Scottish Power (non-green tariff)](https://www.scottishpower.co.uk/about-us/performance/fuel-mix) | 14 | 73 | 4 | 3 | 6 |
 | [OVO](https://www.ovoenergy.com/ovo-fuel-mix) | 15 | 73 | 4 | 2 | 6 |
 | [Tulo](https://www.tulo.energy/energy/fuel-mix) | 14.8 | 74.7 | 3.9 | 0.3 | 6.3 |
 | [Utility Warehouse](https://uw.co.uk/legal/energy-information/fuel-mix-disclosure) | 15 | 75 | 4 | 0.3 | 6 |
