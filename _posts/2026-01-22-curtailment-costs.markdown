@@ -21,10 +21,10 @@ Figure 1. GB's annual electricity transmission constraint costs 2017-2025.
 
 Constraints are managed at boundaries; an example is the Anglo-Scottish boundary, which accounts for a significant portion of the annual constraint costs. This boundary consists of two AC overhead line double circuits and the Western Link, which is an high voltage direct current subsea interconnection between Wales and Scotland via the Irish Sea. The ratings of these circuits sum to make the total boundary transfer capacity. 
 
-## Network reinforcement
+### Network reinforcement
 
 Increasing the rating of constraint boundaries will reduce the likelihood of constraints occurring at this boundary. This means that new circuits need to be constructed, be it overhead lines or underground cables. Although public opinion of overhead lines is poor, they are the most cost effective option, being [five to six times](https://www.theiet.org/impact-society/sustainability-and-climate-change/iet-electricity-transmission-technologies-report) less expensive than underground cables. Furthermore, underground alternating current cables are limited in length due to their technical characteristics. Overhead lines are also challenging to secure consent for, with large access areas being required for maintenance and construction. Due to these challenges, transmission operators currently have [five high voltage direct current interconnections](https://www.nationalgrid.com/the-great-grid-upgrade/where-its-happening) between England and Scotland, routed through the North Sea, in the development or construction phase.
 
-## Energy storage and conversion
+### Energy storage and conversion
 
 An alternative mitigation of curtailments could be to utilise energy storage devices, such as batteries, local to the generation connection. These devices charge up during times when generators would normally be curtailed, and then, during generation troughs, they could export to the grid. Alternatively, the electricity could be used to produce green hydrogen via electrolysis. This would ensure that transmission equipment was not overloaded and would prevent energy from being wasted, but would still require electricity to be purchased from alternative sources when the energy conversion/storage devices were being used. Currently, there is no coordination between energy conversion/storage systems and generation to capitalise on these possibilities, mainly because there is no incentive to do so.
