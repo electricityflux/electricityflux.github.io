@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why should you install a heat pump?"
+title:  "Why are heat pumps expensive despite being efficient?"
 date:   2026-01-24 10:00:24 +0000
 ---
 
