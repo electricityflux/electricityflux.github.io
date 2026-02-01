@@ -7,7 +7,7 @@ gem "github-pages", "~> 232", group: :jekyll_plugins
 # gem "minima", "~> 2.5"
 
 gem "jekyll-remote-theme"
-
+gem 'jekyll-theme-chirpy', '~> 7.1', '>= 7.1.1'
 
 group :jekyll_plugins do
   gem "jekyll-feed"
