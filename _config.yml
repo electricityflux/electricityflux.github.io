@@ -2,11 +2,6 @@ title: Electricity Flux
 author: ""
 permalink: /:title/
 
-<<<<<<< HEAD
-description: "Electricity Flux is a website orientated around the energy transition in Great Britain and the engineering and policy required to achieve it."
-baseurl: ""
-url: "https://electricityflux.github.io"
-=======
 email: ""
 description: "Electricity Flux is a website orientated around the energy transition in Great Britain and the engineering and policy required to achieve it."
 baseurl: ""
@@ -16,4 +11,3 @@ theme: minima
 
 plugins:
   - jekyll-feed
->>>>>>> f5a0783c8c080f3673d3928ade5a6f17e2e62829
