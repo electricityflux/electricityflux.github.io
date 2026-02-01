@@ -10,3 +10,5 @@ lang: en
 
 author:
   name: Electricity Flux
+
+remote_theme: jekyll-theme-chirpy
