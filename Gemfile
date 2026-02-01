@@ -6,6 +6,9 @@ gem "github-pages", "~> 232", group: :jekyll_plugins
 # (GitHub Pages already includes it)
 # gem "minima", "~> 2.5"
 
+gem "jekyll-remote-theme"
+
+
 group :jekyll_plugins do
   gem "jekyll-feed"
 end
