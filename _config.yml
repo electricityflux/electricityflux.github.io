@@ -1,0 +1,14 @@
+title: Electricity Flux
+tagline: Energy transition, engineering, and policy
+description: Electricity Flux is a website orientated around the energy transition in Great Britain and the engineering and policy required to achieve it.
+
+url: https://electricityflux.github.io
+baseurl: ""
+
+timezone: Europe/London
+lang: en
+
+author:
+  name: Electricity Flux
+
+remote_theme: jekyll-theme-chirpy
